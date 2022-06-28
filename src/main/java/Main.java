@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.function.Function;
 
 /**
- * В данной программе используется Фунциональный интерфейс и монады (Stream API).
+ * Р’ РґР°РЅРЅРѕР№ РїСЂРѕРіСЂР°РјРјРµ РёСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ Р¤СѓРЅРєС†РёРѕРЅР°Р»СЊРЅС‹Р№ РёРЅС‚РµСЂС„РµР№СЃ Рё РјРѕРЅР°РґС‹ (Stream API).
  */
 public class Main {
     public static void main(String[] args) {
